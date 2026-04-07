@@ -89,18 +89,6 @@ I’m currently deep-diving into next-generation AI systems and autonomous workf
 - **Memory-enabled AI Assistants**
 - **Cloud-native GenAI deployment**
 
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-091&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-091&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 ## 🤝 Let’s Connect
